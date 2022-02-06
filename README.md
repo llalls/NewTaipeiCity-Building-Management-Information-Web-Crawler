@@ -1,5 +1,3 @@
-# New Taipei City-Building-Management-Information-Web-Crawler
-
 # General
 
 This project is my web crawler practice. It can help you get all building license from New Taipei City Building Management and save to NoSQL database (MongoDB) automatically. 
